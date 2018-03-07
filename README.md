@@ -1,6 +1,8 @@
 # sbc-demo-backend
 One Daijo's Demo Backend
+
 Written in Go
+
 This takes advantage of two GCP services: Firebase and Cloud Datatstore.
 
 The primary backend code is under server/.
