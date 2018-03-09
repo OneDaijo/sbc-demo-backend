@@ -11,6 +11,7 @@ To run this backend, you'll need:
 1.  GCP credentials stored in `server/cloud_credentials.json`.
 2.  Your stellar seed stored in `server/stellar_seed.txt`.
 3.  A certificate and private key: `server/server.crt`, `server/server.key`.
+4.  A configured environment for building Go projects with dependencies.
 
 Other Go scripts that we found useful are available in other folders.
 
